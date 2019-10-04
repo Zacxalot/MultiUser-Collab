@@ -1,5 +1,5 @@
 # MultiUser-Collab.io
-Multi user collaboration tool for use in a workplace environment
+Multi user collaboration tool for use in a workplace environment.
 
 Uses Node.js Socket.io and the HTML5 canvas.
 
