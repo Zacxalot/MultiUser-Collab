@@ -13,5 +13,6 @@ and
 ```shell
 serve ./client
 ```
+This package uses <a href="https://www.npmjs.com/package/socket.io">Socket.io</a>
 
 Set ports for the socket server in server.js and socket-manager.js.
